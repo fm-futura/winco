@@ -1,0 +1,20 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "FM Futura",
+      "appId": "ar.com.fmfutura.player",
+      "ionicCss": false,
+      "bowerPackages": [
+        "localforage#~1.4.0"
+      ],
+      "platforms": [],
+      "plugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-network-information"
+      ],
+      "appModule": "fmFutura",
+      "ecosystems": [],
+      "install": "npm"
+    }
+  }
+}
