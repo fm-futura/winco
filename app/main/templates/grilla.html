@@ -1,0 +1,21 @@
+<ion-view>
+  <ion-header-bar class="bar-subheader grilla">
+    <div class="row grilla semana">
+      <div ng-repeat="dia in dias"
+           ng-click="seleccionarDia($index)"
+           class="col col-center dia"
+           ng-class="{ dia_actual: idxDiaActual == $index}"
+      >
+        {{ dia }}
+      </div>
+    </div>
+  </ion-header-bar>
+
+  <ion-content>
+    <ul>
+      <detalle-emision ng-repeat="emision in grilla.emisiones[diaActual] | orderBy:'start'" emision="emision">
+      </detalle-emision>
+    </ul>
+  </ion-content>
+</ion-view>
+

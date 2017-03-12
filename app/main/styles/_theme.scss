@@ -1,0 +1,299 @@
+/* estilos globales */
+
+ion-content, ion-nav-bar, ion-header-bar, ion-side-menu {
+  background-color: #333333 !important;
+  color: #CCCCCC !important;
+}
+
+.item-radio.dark * {
+  border-color: #111 !important;
+  background-color: #444 !important;
+  color: #fff !important;
+}
+
+.item.activated.item-dark {
+  border-color: #000;
+  background-color: #262626;
+}
+
+/* nav */
+.nav-bar-title.player_title {
+  color: #F7931E;
+  font-family: "-apple-system", "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size:   24px;
+}
+
+/* menu */
+
+.source-select .ion-checkmark:before {
+  content: "";
+}
+
+/* Player original con algunos retoques */
+
+.vivo_container {
+    text-align: center;
+}
+
+#escuchanosVivo,
+.vivo_icon,
+.vivo_text,
+.vivo_controls{
+    border-radius: 5px;
+    height: 70px;
+}
+
+#escuchanosVivo {
+    display: inline-block;
+    width:  325px;
+    height: 80px;
+    padding: 3px;
+    border: 2px solid #D98A3F;
+    margin-top: 15px;
+}
+#escuchanosVivo img {
+    width: 100%;
+    height: 100%;
+}
+.vivo_icon,
+.vivo_text,
+.vivo_controls {
+    display: inline-block;
+    vertical-align: top;
+    background-color: #D98A3F;
+}
+.vivo_icon,
+.vivo_controls {
+    width: 70px;
+    height: 100%;
+}
+.vivo_icon {
+    float: left;
+}
+
+.vivo_text {
+    width: 165px;
+}
+.vivo_controls {
+    float: right;
+    padding: 6px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.vivo_controls > div {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: #DE985C;
+    line-height: 50px;
+    font-size: 46px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: background-color .3s;
+}
+.vivo_controls > div:hover {
+    background-color: #D98A3F;
+}
+.vivo_controls > div a {
+    color:white;
+    text-shadow: 2px 2px #CC5A1B;
+    text-decoration: none;
+}
+.vivo_controls .play {
+    margin-bottom: 5px;
+    transition: margin .3s;
+    -webkit-transition: margin .3s;
+}
+.vivo_controls.playing .play {
+  margin-top: -63px;
+}
+
+.mdi {
+  // font-family: MaterialDesignIcons;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  font-weight: 400;
+  font-style: normal;
+  speak: none;
+  text-decoration: inherit;
+  text-transform: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.programa_actual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1ex;
+
+
+  .timeshift {
+    display: flex;
+    color: #999999;
+    padding: 0px;
+    padding-right: 1.5ex;
+    margin: 0px;
+    cursor: pointer;
+
+    &.active {
+      color: #F7931E;
+      text-shadow: 0 0 1ex orange;
+    }
+  }
+
+  .nombre {
+    display: flex;
+    color: #F7931E;
+    padding: 0px;
+    margin: 0px;
+  }
+}
+
+
+.programa_actual .stream-type {
+  color: #999999;
+  padding: 0px;
+  cursor: pointer;
+}
+
+.programa_actual .selected {
+  color: #F7931E;
+  text-shadow: 0 0 1ex orange;
+}
+
+
+.programa_actual .cancion {
+  color: #999999;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+
+/* Grilla de Programacion */
+
+.grilla.bar-subheader {
+  padding: 0px !important;
+  margin:  0px !important;
+}
+
+.grilla.semana {
+  border-bottom: 5px solid;
+  border-bottom-color: #F7931E;
+  padding: 0px;
+}
+
+
+.grilla .dia {
+  text-align: center;
+  background-color: #333333;
+  color: #999999;
+  font-size: 16px;
+  line-height: 40px;
+  overflow-wrap: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+@media (max-width:600px) {
+  .grilla .dia {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 11px;
+  }
+}
+
+.grilla .dia:hover, .grilla .dia.dia_actual {
+  color:white;
+  background-color:#F7931E;
+}
+
+/* directive emision */
+
+li.emision {
+  margin-bottom: 5px;
+  background-color: #F8F8F8 !important;
+}
+
+li.emision:first-of-type {
+  margin-top: 11px;
+}
+
+.emision > header {
+
+  background-color: #CCCCCC;
+  color: black;
+  padding: 5px 10px 10px;
+  cursor: pointer;
+  min-height: 67px;
+  box-sizing: border-box;
+}
+
+.emision .info_container .info {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.emision .info > h2 {
+  font-size: 20px;
+  font-family: 'arial';
+  margin: 0;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+.emision .info .meta {
+  font-size: 14px;
+  padding: 0;
+  margin: 0px;
+  line-height: 16px;
+  color: #666666;
+
+}
+
+.emision .expandir {
+  vertical-align: middle;
+}
+
+.emision .expandir a {
+  font-size: 25px;
+  line-height: 57px;
+  color: #808080;
+  text-decoration: none;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.emision .programa_info {
+  padding: 5px 10px;
+  margin: 5px 0;
+  border: 5px solid #CCCCCC;
+  display: none;
+}
+
+.emision .programa_info.expandida {
+  display: block;
+}
+
+.emision .programa_info p , .emision .programa_info pre {
+  color: #808080;
+  font-size: 14px!important;
+  font-family: -apple-system, "Helvetica Neue", Roboto, "Segoe UI", sans-serif;
+  line-height: 20px!important;
+  margin: 0 0 10px;
+}
+
+.emision .programa_info p.lead {
+  margin-bottom: 20px;
+}
+
+.emision .programa_info a {
+  color: black;
+  text-decoration: none;
+}

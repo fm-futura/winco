@@ -1,0 +1,31 @@
+<li class="active emision">
+  <header class="info_container row" ng-click="expandir()">
+    <div class="info col">
+      <h2> {{ emision.programa.nombre }} <span ng-if="emision.es_repeticion"> (repetición) </span> </h2>
+      <div class="meta">
+        <span class="transm"> </span>
+        {{ emision.start.format('H:mm') }} a {{ emision.end.format('H:mm') }} hs / {{ emision.programa.descripcion_breve }}
+      </div>
+    </div>
+
+    <div class="expandir">
+      <a class="icon ion-plus-round" ng-click="expandir()"></a>
+    </div>
+  </header>
+
+  <article class="programa_info" ng-class="{expandida: expandida}">
+    <pre> {{ emision.programa.descripcion }} </pre>
+
+    <p ng-if="emision.programa.url">
+      <strong>  Sitio web:
+        <a href="{{ emision.programa.url }}" target="_blank">{{ emision.programa.url }}</a>
+      </strong>
+    </p>
+
+    <p ng-if="emision.programa.email">
+      <strong>  Email: 
+        <a href="mailto:{{ emision.programa.email }}" target="_blank">{{ emision.programa.email }}</a>
+      </strong>
+    </p>
+  </article>
+</li>
