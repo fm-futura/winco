@@ -14,7 +14,7 @@ angular.module('main')
 
   vm.toggleTimeshifting = function () {
     var show = Grilla.getCurrentShow();
-    if (show) {
+    if (show && !vm.playerState.timeshifting) {
       var offset = (moment() - show.start) / 1000;
       vm.state.dateStart = show.start;
       vm.state.timeOffset = offset;
