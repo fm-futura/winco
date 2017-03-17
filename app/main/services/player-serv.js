@@ -33,6 +33,7 @@ angular.module('main')
     var url = options.url || player.baseUrl;
 
     player.state.timeOffset = timeOffset;
+    player.state.timeshifting = timeOffset > 0 ? true : false;
 
     if (timeOffset && player.state.timeshifting) {
       url = url + '?offset=' + timeOffset;
