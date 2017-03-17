@@ -1,6 +1,6 @@
 'use strict';
 angular.module('main')
-.service('Grilla', function (Restangular, Config) {
+.service('Grilla', function (Config, $http) {
   var state = {
     rawData: undefined,
     // weekDay -> list of shows. Sunday is 0
@@ -69,9 +69,10 @@ angular.module('main')
 
   function get (options) {
 
-    var p = Restangular.all(Config.ENV.schedule).getList(options);
+    var p = $http.get(Config.ENV.schedule, options);
 
-    p.then(function (data) {
+    p.then(function (response) {
+      var data = response.data;
       state.rawData = data;
       parseData(data);
     });
