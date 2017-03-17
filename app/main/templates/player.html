@@ -17,7 +17,7 @@
 
     <div class="player programa_actual">
       <h4 ng-class="{ active: Main.playerState.timeshifting }" class="pointer text-center timeshift ion-refresh" ng-click="Main.toggleTimeshifting()">  </h4>
-      <h3 class="nombre text-center"> Ud es mi complice ...  </h3>
+      <h3 class="nombre text-center"> {{ Main.state.currentShow.title }} </h3>
     </div>
 
 <!--
