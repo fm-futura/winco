@@ -1,21 +1,539 @@
 [
   {
+    "id": 2795,
+    "date": "2017-03-16T21:45:51",
+    "date_gmt": "2017-03-17T00:45:51",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=2795"
+    },
+    "modified": "2017-03-16T21:47:56",
+    "modified_gmt": "2017-03-17T00:47:56",
+    "slug": "rap-todo-terreno",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/rap-todo-terreno",
+    "title": {
+      "rendered": "RAP Todo Terreno"
+    },
+    "content": {
+      "rendered": "<p class=\"lead\">Magazine de análisis político informativo con agenda propia y un vínculo directo  con las organizaciones sociales. Aporta reflexiones para pensar un poco más allá los hechos relevantes del día a día.</p>\n",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "transmisiones": "Lunes a viernes /",
+    "horario_inicio": "10:00:00",
+    "horario_finalizacion": "12:30:00",
+    "icono_programa": {
+      "ID": "2796",
+      "post_author": "1",
+      "post_date": "2015-06-11 17:16:11",
+      "post_date_gmt": "2015-06-11 20:16:11",
+      "post_content": "",
+      "post_title": "RAP-TT",
+      "post_excerpt": "",
+      "post_status": "inherit",
+      "comment_status": "closed",
+      "ping_status": "open",
+      "post_password": "",
+      "post_name": "rap-tt-2",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2015-06-11 17:16:11",
+      "post_modified_gmt": "2015-06-11 20:16:11",
+      "post_content_filtered": "",
+      "post_parent": "2795",
+      "guid": "http://fmfutura.com.ar/wp-content/uploads/2015/06/RAP-TT.jpg",
+      "menu_order": "0",
+      "post_type": "attachment",
+      "post_mime_type": "image/jpeg",
+      "comment_count": "0",
+      "pod_item_id": "2796"
+    },
+    "categoria": "Informativo",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/2795"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=2795"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2944,
+    "date": "2017-03-16T21:40:07",
+    "date_gmt": "2017-03-17T00:40:07",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=2944"
+    },
+    "modified": "2017-03-16T21:40:30",
+    "modified_gmt": "2017-03-17T00:40:30",
+    "slug": "ventana-a-la-calle-repeticion",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/ventana-a-la-calle-repeticion",
+    "title": {
+      "rendered": "Ventana a la calle (repetición)"
+    },
+    "content": {
+      "rendered": "<p class=\"lead\" style=\"color: #808080;\" class=\"lead\">Propuesta basada en entrevistas a grandes creadores de distintos ámbitos de la producción intelectual y artística. Un espacio para el debate de ideas y el despliegue de la imaginación creadora. Literatura, música, historia, pensamiento político y filosófico, ningún esfuerzo humano por comprender el mundo en que vivimos y soñar otros mundos posibles, es ajeno a este programa.</p>\n<p class=\"lead\" style=\"color: #808080;\"><strong>Programa en vivo:</strong> jueves de 18 a 19 hs.</p>\n<p style=\"color: #808080;\"><strong>Realización: </strong>Sergio Marelli, Santiago Marelli, Gustavo Guaragna</p>\n",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "7"
+    ],
+    "transmisiones": "Domingos /",
+    "horario_inicio": "17:00:00",
+    "horario_finalizacion": "18:00:00",
+    "icono_programa": false,
+    "categoria": "Entrevistas",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/2944"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=2944"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2790,
+    "date": "2017-03-15T21:38:42",
+    "date_gmt": "2017-03-16T00:38:42",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=2790"
+    },
+    "modified": "2017-03-16T21:38:15",
+    "modified_gmt": "2017-03-17T00:38:15",
+    "slug": "sonidos-clandestinos",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/sonidos-clandestinos",
+    "title": {
+      "rendered": "Sonidos Clandestinos"
+    },
+    "content": {
+      "rendered": "<p class=\"lead\">Sonidos Clandestinos es un programa radial que cada semana emprende diversos viajes por las músicas y las culturas del mundo. Un género, un instrumento músical, un artista o un pais en particular pueden ser la puerta o el puente para constituir la música sin mapa. Aquella que no respeta fronteras políticas impuestas, sino que se constituye a partir de una geografía otra: la delimitada por los diversos pueblos que habitan el mundo.</p>\n<p><em>Sonidos Clandestinos se emite en vivo de lunes a viernes de 16 a 17 hs por fmlatribu.com</em></p>\n",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "7"
+    ],
+    "transmisiones": "Domingos",
+    "horario_inicio": "18:00:00",
+    "horario_finalizacion": "20:00:00",
+    "icono_programa": {
+      "ID": "2791",
+      "post_author": "1",
+      "post_date": "2015-06-11 17:02:07",
+      "post_date_gmt": "2015-06-11 20:02:07",
+      "post_content": "",
+      "post_title": "templatemo_image_09",
+      "post_excerpt": "",
+      "post_status": "inherit",
+      "comment_status": "closed",
+      "ping_status": "open",
+      "post_password": "",
+      "post_name": "templatemo_image_09",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2015-06-11 17:02:07",
+      "post_modified_gmt": "2015-06-11 20:02:07",
+      "post_content_filtered": "",
+      "post_parent": "2790",
+      "guid": "http://fmfutura.com.ar/wp-content/uploads/2015/06/templatemo_image_09.jpg",
+      "menu_order": "0",
+      "post_type": "attachment",
+      "post_mime_type": "image/jpeg",
+      "comment_count": "0",
+      "pod_item_id": "2791"
+    },
+    "categoria": "Música",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/2790"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=2790"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2973,
+    "date": "2017-03-14T21:39:39",
+    "date_gmt": "2017-03-15T00:39:39",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=2973"
+    },
+    "modified": "2017-03-16T21:39:43",
+    "modified_gmt": "2017-03-17T00:39:43",
+    "slug": "historias-en-canciones-repeticion",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/historias-en-canciones-repeticion",
+    "title": {
+      "rendered": "Historias en canciones (repetición)"
+    },
+    "content": {
+      "rendered": "<p class=\"lead\">Poetas, músicos, filósofos populares: todos tienen un lugar de encuentro. Historias en canciones los reúne en un espacio donde la sensiblidad no pide permiso y la razón se rinde ante los corazones nobles.</p>\n<p><strong>Realización:</strong> Daniel López y Luis Uncal</p>\n<p><strong>En vivo:</strong> jueves 17 hs.</p>\n",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "7"
+    ],
+    "transmisiones": "Domingos /",
+    "horario_inicio": "16:00:00",
+    "horario_finalizacion": "17:00:00",
+    "icono_programa": false,
+    "categoria": "Cultural",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/2973"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=2973"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6970,
+    "date": "2017-02-27T10:53:28",
+    "date_gmt": "2017-02-27T13:53:28",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=6970"
+    },
+    "modified": "2017-02-27T10:55:48",
+    "modified_gmt": "2017-02-27T13:55:48",
+    "slug": "sin-fronteras",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/sin-fronteras",
+    "title": {
+      "rendered": "Sin Fronteras"
+    },
+    "content": {
+      "rendered": "<p class=\"lead\">Somos un grupo de personas que nos pusimos como meta conocer, difundir y colaborar con la crisis actual de refugiados alrededor del mundo.</p>\n<p>Desde nuestro espacio radial semanal establecemos puentes entre los que están sufriendo, entre los que están trabajando para los que sufren y vos.</p>\n<p>A raíz de lo que vemos, escuchamos y decimos, generamos contenido de opinión propia que volcamos <a href=\"https://www.refugiadosinfronteras.com/quienes-somos/\">en nuestro blog.</a></p>\n<p>Descubrimos que un emprendedor, una periodista y una ingeniera agrónoma pueden unirse a favor de los que sufren.</p>\n<img class=\"aligncenter size-medium wp-image-6971\" src=\"http://fmfutura.com.ar/wp-content/uploads/2017/02/16807813_739946699506123_8640805420227193302_n-300x300.jpg\" alt=\"\" srcset=\"http://fmfutura.com.ar/wp-content/uploads/2017/02/16807813_739946699506123_8640805420227193302_n-300x300.jpg 300w, http://fmfutura.com.ar/wp-content/uploads/2017/02/16807813_739946699506123_8640805420227193302_n-150x150.jpg 150w, http://fmfutura.com.ar/wp-content/uploads/2017/02/16807813_739946699506123_8640805420227193302_n-125x125.jpg 125w, http://fmfutura.com.ar/wp-content/uploads/2017/02/16807813_739946699506123_8640805420227193302_n.jpg 757w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "5"
+    ],
+    "transmisiones": "Viernes /",
+    "horario_inicio": "22:00:00",
+    "horario_finalizacion": "00:00:00",
+    "icono_programa": {
+      "ID": "6971",
+      "post_author": "5",
+      "post_date": "2017-02-27 10:55:35",
+      "post_date_gmt": "2017-02-27 13:55:35",
+      "post_content": "",
+      "post_title": "16807813_739946699506123_8640805420227193302_n",
+      "post_excerpt": "",
+      "post_status": "inherit",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "16807813_739946699506123_8640805420227193302_n",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2017-02-27 10:55:48",
+      "post_modified_gmt": "2017-02-27 13:55:48",
+      "post_content_filtered": "",
+      "post_parent": "6970",
+      "guid": "http://fmfutura.com.ar/wp-content/uploads/2017/02/16807813_739946699506123_8640805420227193302_n.jpg",
+      "menu_order": "0",
+      "post_type": "attachment",
+      "post_mime_type": "image/jpeg",
+      "comment_count": "0",
+      "pod_item_id": "6971"
+    },
+    "categoria": "Política internacional",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/6970"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=6970"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6969,
+    "date": "2017-02-27T10:49:50",
+    "date_gmt": "2017-02-27T13:49:50",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=6969"
+    },
+    "modified": "2017-02-27T10:49:50",
+    "modified_gmt": "2017-02-27T13:49:50",
+    "slug": "rompecabezzas",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/rompecabezzas",
+    "title": {
+      "rendered": "Rompecabezzas"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "3"
+    ],
+    "transmisiones": "Miércoles /",
+    "horario_inicio": "20:00:00",
+    "horario_finalizacion": "21:00:00",
+    "icono_programa": false,
+    "categoria": "Magazine cultural",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/6969"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=6969"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6967,
+    "date": "2017-02-27T10:47:11",
+    "date_gmt": "2017-02-27T13:47:11",
+    "guid": {
+      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=6967"
+    },
+    "modified": "2017-02-27T10:47:11",
+    "modified_gmt": "2017-02-27T13:47:11",
+    "slug": "juana-sosten",
+    "status": "publish",
+    "type": "programas",
+    "link": "http://fmfutura.com.ar/programas/juana-sosten",
+    "title": {
+      "rendered": "Juana Sostén"
+    },
+    "content": {
+      "rendered": "<p class=\"lead\"><em><strong>¿Quién es Juana Sostén?</strong></em></p>\n<p>La idea de este Club se la robamos, como corresponde, a Hollywood. Una de nosotras había visto la película “The Jane Austen Club” y pensó que sería genial replicar la idea, pero sin limitarnos a Jane en nuestras lecturas. Leer autoras mujeres, esa sería nuestra premisa inicial.</p>\n<p>Lo discutimos entre dos de nosotras vía chat (cada una tenía una amiga para sumar: así nació el Club) y de forma un tanto improvisada la encontramos a Juana:</p>\n<p>M: Vayamos pensando un nombre para nuestro Club de Lectura…<br />\nA: ¡¡Sííí!! Y sale primera reunión.<br />\nM: Algo así como “Club de lectura de mujeres (ex Jane Austen)”, ¡jajaja!<br />\nA: ¡Jajaja, las Jane Austen argentas!<br />\nM: ¡Jaja, posta! O podríamos argentinizar el nombre. Tipo… no sé, ¿cuál sería el nombre castellano sinónimo?<br />\nA: No le pongamos un nombre mapuche.<br />\nM: Juana Ostén.<br />\nA: Juana Sostén es re femenino.<br />\nM: ¡¡Seeee, Juana Sostén!! ¡¡Lo más!! Club de Lectura Juana Sostén. Re va.<br />\nA: Y si nos va mal con la literatura, vendemos lencería.</p>\n<p>Así nació Juana, que es una mutación extraña del nombre Jane y, al mismo tiempo, una reivindicación propia: somos locas, somos la A al final de Juan, tenemos un apellido típicamente “femenino” que significa “Prenda de vestir interior que usan las mujeres para ceñir el pecho” pero también “Acción de sostener”, “Persona o cosa que sostiene”, “Apoyo moral, protección”.</p>\n<p>Juana Sostén existe, es nuestra heroína. Es nuestra prócer.</p>\n<p>Ah, y es de géminis. Con ascendente en sagitario.</p>\n<p>Las juanas hacemos radio todos los miércoles a la noche</p>\n<p><em><strong>Escuchar p<a href=\"https://juanasosten.wordpress.com/radio-sosten/\">rogramas anteriores</a></strong></em></p>\n",
+      "protected": false
+    },
+    "template": "",
+    "dia": [
+      "3"
+    ],
+    "transmisiones": "Miércoles /",
+    "horario_inicio": "21:00:00",
+    "horario_finalizacion": "22:00:00",
+    "icono_programa": {
+      "ID": "6968",
+      "post_author": "5",
+      "post_date": "2017-02-27 10:46:14",
+      "post_date_gmt": "2017-02-27 13:46:14",
+      "post_content": "",
+      "post_title": "js-solo",
+      "post_excerpt": "",
+      "post_status": "inherit",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "js-solo",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2017-02-27 10:47:12",
+      "post_modified_gmt": "2017-02-27 13:47:12",
+      "post_content_filtered": "",
+      "post_parent": "6967",
+      "guid": "http://fmfutura.com.ar/wp-content/uploads/2017/02/js-solo.jpg",
+      "menu_order": "0",
+      "post_type": "attachment",
+      "post_mime_type": "image/jpeg",
+      "comment_count": "0",
+      "pod_item_id": "6968"
+    },
+    "categoria": "Una programa feminista",
+    "_links": {
+      "self": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/6967"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=6967"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
     "id": 6091,
     "date": "2016-08-22T12:07:51",
     "date_gmt": "2016-08-22T15:07:51",
     "guid": {
       "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=6091"
     },
-    "modified": "2016-08-22T12:07:51",
-    "modified_gmt": "2016-08-22T15:07:51",
+    "modified": "2017-02-27T10:34:58",
+    "modified_gmt": "2017-02-27T13:34:58",
     "slug": "avispando-el-agitero",
+    "status": "publish",
     "type": "programas",
     "link": "http://fmfutura.com.ar/programas/avispando-el-agitero",
     "title": {
       "rendered": "Avispando el Agitero"
     },
     "content": {
-      "rendered": "<div class=\"_1ip0\">\n<div class=\"_3-8y\">\n<div class=\"_c24 _50f3\">Programa de radio de miércoles a las 16hs que trata las disputas políticas de La Plata,Berisso y Ensenada y cubre la movida cultural. Radio Futura 90.5</div>\n</div>\n</div>\n<div class=\"_1ip1\">\n<div class=\"_4nq6\">\n<div class=\"clearfix\">\n<div class=\"_3-90 _d5u lfloat _ohe\"></div>\n<div class=\"clearfix _42ef\"></div>\n</div>\n</div>\n<div class=\"_4nq6\"></div>\n<div class=\"_4nq6\"></div>\n</div>\n",
+      "rendered": "<div class=\"_1ip0\">\n<div class=\"_3-8y\">\n<div class=\"_c24 _50f3\">Programa de radio de miércoles a las 16hs que trata las disputas políticas de La Plata,Berisso y Ensenada y cubre la movida cultural. Radio Futura 90.5</div>\n</div>\n</div>\n<div class=\"_1ip1\"></div>\n",
       "protected": false
     },
     "template": "",
@@ -40,10 +558,10 @@
       "post_name": "aa",
       "to_ping": "",
       "pinged": "",
-      "post_modified": "2016-08-22 12:07:52",
-      "post_modified_gmt": "2016-08-22 15:07:52",
+      "post_modified": "2017-02-27 10:34:59",
+      "post_modified_gmt": "2017-02-27 13:34:59",
       "post_content_filtered": "",
-      "post_parent": "0",
+      "post_parent": "6091",
       "guid": "http://fmfutura.com.ar/wp-content/uploads/2016/08/AA.jpg",
       "menu_order": "0",
       "post_type": "attachment",
@@ -51,7 +569,7 @@
       "comment_count": "0",
       "pod_item_id": "6092"
     },
-    "categoria": "",
+    "categoria": "Magazine",
     "_links": {
       "self": [
         {
@@ -92,6 +610,7 @@
     "modified": "2016-08-22T09:51:35",
     "modified_gmt": "2016-08-22T12:51:35",
     "slug": "disco-del-futuro",
+    "status": "publish",
     "type": "programas",
     "link": "http://fmfutura.com.ar/programas/disco-del-futuro",
     "title": {
@@ -150,6 +669,7 @@
     "modified": "2016-04-01T18:58:46",
     "modified_gmt": "2016-04-01T21:58:46",
     "slug": "qcq",
+    "status": "publish",
     "type": "programas",
     "link": "http://fmfutura.com.ar/programas/qcq",
     "title": {
@@ -187,468 +707,6 @@
       "wp:attachment": [
         {
           "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=5159"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 5154,
-    "date": "2016-04-01T18:50:54",
-    "date_gmt": "2016-04-01T21:50:54",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=5154"
-    },
-    "modified": "2016-08-22T12:09:09",
-    "modified_gmt": "2016-08-22T15:09:09",
-    "slug": "cacodelphia",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/cacodelphia",
-    "title": {
-      "rendered": "Cacodelphia"
-    },
-    "content": {
-      "rendered": "<img class=\"aligncenter size-medium wp-image-5155\" src=\"http://fmfutura.com.ar/wp-content/uploads/2016/04/943841_806664276144106_7279201531945462910_n-296x300.jpg\" alt=\"943841_806664276144106_7279201531945462910_n\" srcset=\"http://fmfutura.com.ar/wp-content/uploads/2016/04/943841_806664276144106_7279201531945462910_n-296x300.jpg 296w, http://fmfutura.com.ar/wp-content/uploads/2016/04/943841_806664276144106_7279201531945462910_n.jpg 390w\" sizes=\"(max-width: 296px) 100vw, 296px\" />\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "2",
-      "3",
-      "6"
-    ],
-    "transmisiones": "/ Martes, miércoles y sábados",
-    "horario_inicio": "22:00:00",
-    "horario_finalizacion": "12:00:00",
-    "icono_programa": false,
-    "categoria": "",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/5154"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=5154"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 5152,
-    "date": "2016-04-01T18:42:22",
-    "date_gmt": "2016-04-01T21:42:22",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=5152"
-    },
-    "modified": "2016-04-01T18:42:22",
-    "modified_gmt": "2016-04-01T21:42:22",
-    "slug": "el-club-intergalactico",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/el-club-intergalactico",
-    "title": {
-      "rendered": "El Club Intergaláctico"
-    },
-    "content": {
-      "rendered": "<img class=\"aligncenter wp-image-5153 size-full\" src=\"http://fmfutura.com.ar/wp-content/uploads/2016/04/1923514_565322583637028_2854355563853870329_n.jpg\" alt=\"1923514_565322583637028_2854355563853870329_n\" width=\"228\" height=\"395\" srcset=\"http://fmfutura.com.ar/wp-content/uploads/2016/04/1923514_565322583637028_2854355563853870329_n.jpg 228w, http://fmfutura.com.ar/wp-content/uploads/2016/04/1923514_565322583637028_2854355563853870329_n-173x300.jpg 173w\" sizes=\"(max-width: 228px) 100vw, 228px\" />\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "1"
-    ],
-    "transmisiones": "Lunes",
-    "horario_inicio": "20:00:00",
-    "horario_finalizacion": "21:00:00",
-    "icono_programa": {
-      "ID": "5153",
-      "post_author": "5",
-      "post_date": "2016-04-01 18:41:19",
-      "post_date_gmt": "2016-04-01 21:41:19",
-      "post_content": "",
-      "post_title": "1923514_565322583637028_2854355563853870329_n",
-      "post_excerpt": "",
-      "post_status": "inherit",
-      "comment_status": "closed",
-      "ping_status": "closed",
-      "post_password": "",
-      "post_name": "1923514_565322583637028_2854355563853870329_n",
-      "to_ping": "",
-      "pinged": "",
-      "post_modified": "2016-04-01 18:42:23",
-      "post_modified_gmt": "2016-04-01 21:42:23",
-      "post_content_filtered": "",
-      "post_parent": "0",
-      "guid": "http://fmfutura.com.ar/wp-content/uploads/2016/04/1923514_565322583637028_2854355563853870329_n.jpg",
-      "menu_order": "0",
-      "post_type": "attachment",
-      "post_mime_type": "image/jpeg",
-      "comment_count": "0",
-      "pod_item_id": "5153"
-    },
-    "categoria": "El programa de El Espacio",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/5152"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=5152"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 4118,
-    "date": "2015-09-09T10:09:57",
-    "date_gmt": "2015-09-09T13:09:57",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=4118"
-    },
-    "modified": "2015-09-10T15:46:58",
-    "modified_gmt": "2015-09-10T18:46:58",
-    "slug": "puesta-en-marcha",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/puesta-en-marcha",
-    "title": {
-      "rendered": "Puesta en Marcha"
-    },
-    "content": {
-      "rendered": "<p class=\"lead\"><span style=\"color: #222222;\">Un programa dedicado difundir el heavy metal y sus variantes. Un espacio para bandas consagradas y del under: locales, nacionales e internacional.</span><br style=\"color: #222222;\" /><span style=\"color: #222222;\">Te mantendremos informado con todo lo que suceda en la escena metálica, además de sorteos, entrevistas y mucho más.</span></p>\n<p><strong>Realización:</strong> Dio y Roberto</p>\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "5"
-    ],
-    "transmisiones": "Viernes /",
-    "horario_inicio": "21:00:00",
-    "horario_finalizacion": "23:00:00",
-    "icono_programa": false,
-    "categoria": "Metal",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/4118"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=4118"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 4088,
-    "date": "2015-09-07T11:19:46",
-    "date_gmt": "2015-09-07T14:19:46",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=4088"
-    },
-    "modified": "2016-04-01T18:49:27",
-    "modified_gmt": "2016-04-01T21:49:27",
-    "slug": "la-liga-de-los-otros-mundos",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/la-liga-de-los-otros-mundos",
-    "title": {
-      "rendered": "La Liga de los Otros Mundos"
-    },
-    "content": {
-      "rendered": "<p class=\"lead\">El viaje retoma el despegue imposible, llegan después de las cataratas bajo la hermandad del cielo aun tormenta y naves hundidas sin destino.<br />\nDicen que vienen a rescatarnos, que las manos son &#8220;cachitos de poesías, anécdotas hermosas, escenas de 3600 frames, libros sanos,tristeza que salva y todo aquello que necesitamos para compartir.</p>\n<p>Vuelven a buscarse sin saber cuantas veces más, o menos, ni cuantos, ni donde&#8221;.</p>\n<p>Solo ahora, tenemos la bitácora que nos han dejado.</p>\n<p>La paz y la suerte, se la han inventado</p>\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "2"
-    ],
-    "transmisiones": "Martes /",
-    "horario_inicio": "00:00:00",
-    "horario_finalizacion": "13:00:00",
-    "icono_programa": {
-      "ID": "3661",
-      "post_author": "5",
-      "post_date": "2015-07-30 17:37:32",
-      "post_date_gmt": "2015-07-30 20:37:32",
-      "post_content": "",
-      "post_title": "La Liga",
-      "post_excerpt": "",
-      "post_status": "inherit",
-      "comment_status": "closed",
-      "ping_status": "open",
-      "post_password": "",
-      "post_name": "la-liga",
-      "to_ping": "",
-      "pinged": "",
-      "post_modified": "2016-04-01 18:49:27",
-      "post_modified_gmt": "2016-04-01 21:49:27",
-      "post_content_filtered": "",
-      "post_parent": "3660",
-      "guid": "http://fmfutura.com.ar/wp-content/uploads/2015/07/La-Liga.jpg",
-      "menu_order": "0",
-      "post_type": "attachment",
-      "post_mime_type": "image/jpeg",
-      "comment_count": "0",
-      "pod_item_id": "3661"
-    },
-    "categoria": "Ficción",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/4088"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=4088"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 3669,
-    "date": "2015-08-01T16:35:26",
-    "date_gmt": "2015-08-01T19:35:26",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=3669"
-    },
-    "modified": "2016-03-14T10:08:54",
-    "modified_gmt": "2016-03-14T13:08:54",
-    "slug": "paseo-inmoral-repeticion",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/paseo-inmoral-repeticion",
-    "title": {
-      "rendered": "Paseo Inmoral (repetición)"
-    },
-    "content": {
-      "rendered": "<p class=\"lead\"><strong>En vivo:</strong> lunes a viernes 19hs.</p>\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "transmisiones": "Lunes a viernes /",
-    "horario_inicio": "01:00:00",
-    "horario_finalizacion": "02:00:00",
-    "icono_programa": false,
-    "categoria": "Cultural",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/3669"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=3669"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 2973,
-    "date": "2015-06-18T20:07:39",
-    "date_gmt": "2015-06-18T23:07:39",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=2973"
-    },
-    "modified": "2015-06-18T20:09:51",
-    "modified_gmt": "2015-06-18T23:09:51",
-    "slug": "historias-en-canciones-repeticion",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/historias-en-canciones-repeticion",
-    "title": {
-      "rendered": "Historias en canciones (repetición)"
-    },
-    "content": {
-      "rendered": "<p class=\"lead\">Poetas, músicos, filósofos populares: todos tienen un lugar de encuentro. Historias en canciones los reúne en un espacio donde la sensiblidad no pide permiso y la razón se rinde ante los corazones nobles.</p>\n<p><strong>Realización:</strong> Daniel López y Luis Uncal</p>\n<p><strong>En vivo:</strong> jueves 17 hs.</p>\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "7"
-    ],
-    "transmisiones": "Domingos /",
-    "horario_inicio": "16:00:00",
-    "horario_finalizacion": "17:00:00",
-    "icono_programa": false,
-    "categoria": "Cultural",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/2973"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=2973"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 2969,
-    "date": "2015-06-17T10:45:30",
-    "date_gmt": "2015-06-17T13:45:30",
-    "guid": {
-      "rendered": "http://fmfutura.com.ar/?post_type=programas&#038;p=2969"
-    },
-    "modified": "2015-06-18T20:06:19",
-    "modified_gmt": "2015-06-18T23:06:19",
-    "slug": "historias-en-canciones",
-    "type": "programas",
-    "link": "http://fmfutura.com.ar/programas/historias-en-canciones",
-    "title": {
-      "rendered": "Historias en canciones"
-    },
-    "content": {
-      "rendered": "<p class=\"lead\">Poetas, músicos, filósofos populares: todos tienen un lugar de encuentro. Historias en canciones los reúne en un espacio donde la sensiblidad no pide permiso y la razón se rinde ante los corazones nobles.</p>\n<p><strong>Realización:</strong> Daniel López y Luis Uncal</p>\n<p><strong>Repetición:</strong> domingos 16hs.</p>\n",
-      "protected": false
-    },
-    "template": "",
-    "dia": [
-      "4"
-    ],
-    "transmisiones": "Jueves /",
-    "horario_inicio": "17:00:00",
-    "horario_finalizacion": "18:00:00",
-    "icono_programa": false,
-    "categoria": "Musical",
-    "_links": {
-      "self": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas/2969"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/programas"
-        }
-      ],
-      "about": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/types/programas"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http://fmfutura.com.ar/wp-json/wp/v2/media?parent=2969"
         }
       ],
       "curies": [
