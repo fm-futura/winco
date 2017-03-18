@@ -26,7 +26,10 @@ angular.module('main')
     }
   };
 
-  $interval(function () {
+  vm.updateCurrentShow = function () {
     vm.state.currentShow = Grilla.getCurrentShow();
-  }, 5000);
+  };
+  vm.updateCurrentShow();
+
+  $interval(vm.updateCurrentShow, 5000);
 });
