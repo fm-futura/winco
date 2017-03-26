@@ -1,5 +1,5 @@
 {
-  "schedule": "http://fmfutura.com.ar/wp-json/wp/v2/programas",
+  "schedule": "http://fmfutura.com.ar/grilla-json",
   "streams":  "streams.json",
   "current":  "current_song.txt",
   "defaultStreamUrl": "http://streamer.fmfutura.com.ar:8101/vivo"
