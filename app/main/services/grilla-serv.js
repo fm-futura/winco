@@ -49,7 +49,7 @@ angular.module('main')
         var show = {
           start: dateStart,
           end: dateEnd,
-          title: showData.title.rendered,
+          title: showData.title.rendered || showData.title,
           url: showData.link,
         };
 
